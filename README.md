@@ -1,11 +1,13 @@
 # Spring Cloud Workshop
 
-Spirng Cloud를 통해 MSA를 공부하는 강의를 실습해 보았습니다.
+**Spirng Cloud를 사용하여 MSA를 간단하게 구현해보는 강의를 실습**한 저장소입니다.
+
+강의를 통해 MSA와 그 구성요소들을 개념을 익혔으며, 공부한 내용은 [TIL](https://github.com/BrandPark/TIL)에 기록했습니다.
 
 ## 강의 목적
 - Monolith와 MSA의 차이점을 알고 MSA에 대해 알아본다.
 - Spring Cloud를 통하여 Cloud Native한 MSA를 구축하는 방법을 알아본다.
-- MSA에 사용되는 도구들에 대해 알아보고 Spring Cloud를 통해 직접 사용해본다.
+- MSA에 사용되는 구성요소들에 대해 알아보고 Spring Cloud를 통해 직접 사용해본다.
   - Circuit Breaker => `Hystrix`
   - Service Registry => `Eureka`
   - Client-side Load-balancer => `Ribbon`
