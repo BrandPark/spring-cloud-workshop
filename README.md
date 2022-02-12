@@ -1,6 +1,6 @@
 # Spring Cloud Workshop
 
-Spirng Cloud를 통해 MSA를 공부하는 강의를 실습해보았습니다.
+Spirng Cloud를 통해 MSA를 공부하는 강의를 실습해 보았습니다.
 
 ## 강의 목적
 - Monolith와 MSA의 차이점을 알고 MSA에 대해 알아본다.
